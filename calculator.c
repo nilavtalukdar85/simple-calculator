@@ -66,7 +66,7 @@ int main()
         break;
     default:
         printf("\nInvalid operator");
-        break;
+        continue;
     }
 
     printf("\nGood Bye");
